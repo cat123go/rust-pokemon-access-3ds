@@ -431,3 +431,62 @@ or-to-space-10 = { POKEMON(384) }化作一道绿光贯穿了它。岩石在地�
 or-to-space-11 = 在飘浮的碎块之间，一个黑色的小三角形漂近。
 or-to-space-12 = 那是一个红色的金字塔。黑色的带子从中舒展开来。
 or-to-space-13 = 带子变成橙色和蓝色，金字塔展开成一只宝可梦：{ POKEMON(386) }，橙蓝相间，胸口有一颗紫色的宝石。
+or-to-space-14 = 绿色闪光掠过云层上方的蓝天。
+or-to-space-15 = 视线下沉到塔顶，它孤零零地矗立在云海之上。
+or-to-space-16 = 你再次站在塔顶，面向祭坛。{ TRAINER(713) }的{ POKEMON(293) }从你身后走上来。
+
+## Alpha Sapphire：送别烈空坐
+
+as-to-space-1 = 塔顶迎来了白昼。越过{ TRAINER(713) }看去，你穿着蓝色服装、戴着蓝色的圆形头盔，站在{ POKEMON(384) }身旁。
+as-to-space-2 = { TRAINER(713) }一手按在胸前微笑着，她的{ POKEMON(293) }在她身旁。
+as-to-space-3 = 你爬上{ POKEMON(384) }的背。
+as-to-space-4 = 高塔孤零零地矗立在蓝天下。绿光一闪，一束绿色的光从塔顶直射而上。
+as-to-space-5 = 远远的下方，高塔只是海中的一个小点，被映成绿色和金色。塔顶上，{ TRAINER(713) }和她的{ POKEMON(293) }抬头仰望。
+as-to-space-6 = { POKEMON(384) }在耀眼的绿光中向上疾冲，如今身上带着金色的环纹，你骑在它背上。一道光芒划过天空，向上攀升。
+as-to-space-7 = 太空：繁星和飘动的紫色光云，下方是地球的弧线。
+as-to-space-8 = { POKEMON(384) }发着光，载着你在太空中继续疾驰。
+as-to-space-9 = 前方悬着一块巨大的暗红色岩石。
+as-to-space-10 = { POKEMON(384) }化作一道绿光贯穿了它。岩石在地球上方炸裂成巨大的碎块。
+as-to-space-11 = 在飘浮的碎块之间，一个黑色的小三角形漂近。
+as-to-space-12 = 那是一个红色的金字塔。黑色的带子从中舒展开来。
+as-to-space-13 = 带子变成橙色和蓝色，金字塔展开成一只宝可梦：{ POKEMON(386) }，橙蓝相间，胸口有一颗紫色的宝石。
+as-to-space-14 = 绿色闪光掠过云层上方的蓝天。
+as-to-space-15 = 视线下沉到塔顶，它孤零零地矗立在云海之上。
+as-to-space-16 = 你再次站在塔顶，面向祭坛。{ TRAINER(713) }的{ POKEMON(293) }从你身后走上来。
+
+## 告别与尾声
+
+letter-1 = 它蹦跳着跑开了，只剩你独自站在那里。
+letter-2 = 从高空俯瞰，塔顶矗立在云海之间，你显得十分渺小。
+letter-3 = 视线升入蓝天。
+epilogue-space-center-1 = 一间控制室：一排排桌子配着发光的显示器，上方是一块巨大的屏幕。科学家们坐在桌前，{ SPRITE(310) }一位穿白大褂的老人站在他们中间。
+epilogue-wally-1 = 厨房旁的客厅。{ TRAINER(518) }朝门口走去，他的父母站在他身后。
+epilogue-wally-2 = { TRAINER(518) }走出门口。
+epilogue-magma-1 = 一个红色装饰的昏暗房间。{ TRAINER(235) }低着头，坐在红色横幅下一张长桌的上首；{ TRAINER(691) }站在一艘帆船模型旁。{ TRAINER(694) }站在长桌近端，面向{ TRAINER(235) }。
+epilogue-league-1 = 一座高大的石砌大厅，光线从高高的拱形窗户斜照进来。{ TRAINER(557) }站在通往幽暗门口的台阶下，{ TRAINER(572) }走到他面前。
+epilogue-aqua-1 = 一个蓝色装饰的昏暗房间。{ TRAINER(178) }低着头，坐在蓝色横幅下一张长桌的上首；{ TRAINER(688) }站在一艘帆船模型旁。{ TRAINER(683) }站在长桌近端，面向{ TRAINER(178) }。
+epilogue-aqua-league-1 = 一座高大的石砌大厅，光线从高高的拱形窗户斜照进来。{ TRAINER(557) }站在通往幽暗门口的台阶下，{ TRAINER(572) }走到他面前。
+epilogue-league-2 = { TRAINER(572) }转身离开，{ TRAINER(557) }转过去目送他离去。
+epilogue-falls-1 = 一道巨大的瀑布倾泻进洞窟。{ TRAINER(713) }背对着你站在沙质平台边缘，凝望着瀑布，她的{ POKEMON(293) }在她身旁。
+epilogue-falls-2 = 一位戴白色头巾的老妇人走上来，{ TRAINER(713) }转向她。
+epilogue-falls-3 = { TRAINER(713) }沿台阶走下去，把她的{ POKEMON(293) }留在老妇人身边。
+epilogue-parents-1 = 厨房旁的客厅，窗边映着傍晚的光。{ SPRITE(179) }站在电视旁，{ TRAINER(570) }在厨房附近，你的妈妈和博士的妻子坐在一张粉色桌子旁。
+epilogue-parents-2 = { TRAINER(570) }和你的妈妈走进厨房做饭，{ SPRITE(179) }和他的妻子走了出去。
+epilogue-litleonids-1 = 一座大厅，中央用绳索围起的圆环里放着一枚火箭模型。你站在它面前。
+epilogue-litleonids-2 = { TRAINER(4) }从你身后走上来，你们一起环顾大厅。
+epilogue-litleonids-3 = 在商店柜台前，{ TRAINER(4) }浏览着摆满纪念品的货架。
+epilogue-litleonids-4 = { TRAINER(4) }把脸探进一个举着橙色旗帜的宇航员人形立牌，背后是地球，她朝你微笑。
+epilogue-litleonids-5 = 你们并排坐在一扇大窗前的长椅上，眺望远方的海面和城镇。
+brendan-parents-2 = { TRAINER(570) }和你的妈妈走进厨房做饭，{ SPRITE(179) }和他的妻子走了出去。
+brendan-litleonids-1 = 一座大厅，中央用绳索围起的圆环里放着一枚火箭模型。你站在它面前。
+brendan-litleonids-2 = { TRAINER(1) }从你身后走上来，你们一起环顾大厅。
+brendan-litleonids-3 = 在商店柜台前，{ TRAINER(1) }浏览着摆满纪念品的货架。
+brendan-litleonids-4 = { TRAINER(1) }把脸探进一个举着橙色旗帜的宇航员人形立牌，背后是地球，他露出微笑。
+brendan-litleonids-5 = 你们并排坐在一扇大窗前的长椅上，眺望远方的海面和城镇。
+epilogue-home-1 = 夜晚。小路两旁房屋的窗户里透出灯光，你和{ TRAINER(4) }一起沿路走去。
+brendan-home-1 = 夜晚。小路两旁房屋的窗户里透出灯光，你和{ TRAINER(1) }一起沿路走去。
+epilogue-home-2 = 你们分开，你走向自己的家门。
+epilogue-home-3 = 你走进屋里。
+epilogue-home-4 = 你站在自己房间里床边。
+shoal-cave-high-tide = 涨潮了。湿沙从洞口向北延伸，夹在棕色的岩壁之间，直到海水涌入洞窟的地方。
+shoal-cave-low-tide = 退潮了。湿沙从洞口向北延伸，绕过大海留下的浅水洼，通往几级棕色岩石矮台，台上有木台阶，再往前是一条幽暗的通道。
